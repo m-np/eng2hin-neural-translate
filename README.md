@@ -1,8 +1,8 @@
 <h1 align = "center">
   AI-ML Project Template <br>
-  <a href="https://github.com/m-np/ai-ml-project-template/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/m-np/ai-ml-project-template?logo=git&style=plastic"></a>
-  <a href="https://github.com/m-np/ai-ml-project-template/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/m-np/ai-ml-project-template?style=plastic&logo=github"></a>
-  <a href="https://github.com/m-np/ai-ml-project-template/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/m-np/ai-ml-project-template?style=plastic&logo=github"></a>
+  <a href="https://github.com/m-np/eng2hin-neural-translate/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/m-np/eng2hin-neural-translate?logo=git&style=plastic"></a>
+  <a href="https://github.com/m-np/eng2hin-neural-translate/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/m-np/eng2hin-neural-translate?style=plastic&logo=github"></a>
+  <a href="https://github.com/m-np/eng2hin-neural-translate/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/m-np/eng2hin-neural-translate?style=plastic&logo=github"></a>
   <a href="https://makeapullrequest.com/"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic&logo=open-source-initiative"></a>
 </h1>
 
@@ -18,7 +18,7 @@
 
 Please follow the following steps to run the project locally <br/>
 
-1. `git clone https://github.com/m-np/ai-ml-project-template.git`
+1. `git clone https://github.com/m-np/eng2hin-neural-translate.git`
 2. Open Anaconda console/Terminal and navigate into project directory `cd path_to_repo`
 3. Run `conda create --name <env_name> python==3.9`.
 4. Run `conda activate <env_name>` (for running scripts from your console or set the interpreter in your IDE)
